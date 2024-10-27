@@ -1,0 +1,4 @@
+pdfkit
+tabulate
+numpy
+
